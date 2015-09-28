@@ -38,7 +38,7 @@ public class VSCodeUnity
 	private const string VS12VersionString = "\r\nMicrosoft Visual Studio Solution File, Format Version 12.00\r\n" +
 											 "# Visual Studio 2012";
 											 
-	private const string VSCCSharpDefPathOSX = "/Applications/Visual Studio Code.app/Contents/Resources/app/plugins/vs.language.csharp/csharpDef.js";
+	private const string VSCCSharpDefPathOSX = "/Applications/Visual Studio Code.app/Contents/Resources/app/plugins/vs.language.csharp/out/csharpDef.js";
 	private const string VSCPluginsPathOSX = "/Applications/Visual Studio Code.app/Contents/Resources/app/plugins";
 	private const string UnityShaderPluginName = "vs.language.shader";
 	private const string ModifiedFilesBackupExtension = ".VSCModifiedOriginal"; 
